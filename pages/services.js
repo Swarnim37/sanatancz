@@ -22,7 +22,7 @@ const Services = () => {
                     className="object-cover object-center w-full h-full block"
                     width={420}
                     height={260}
-                    src="/img/birthchart.jpg"
+                    src="/img/con2.jpg"
                   />
                 </a>
               </Link>
@@ -44,7 +44,7 @@ const Services = () => {
                     className="object-cover object-center w-full h-full block"
                     width={420}
                     height={260}
-                    src="/img/birthchart.jpg"
+                    src="/img/cons.jpg"
                   />
                 </a>
               </Link>
@@ -66,7 +66,7 @@ const Services = () => {
                     className="object-cover object-center w-full h-full block"
                     width={420}
                     height={260}
-                    src="/img/birthchart.jpg"
+                    src="/img/cons3.jpg"
                   />
                 </a>
               </Link>
